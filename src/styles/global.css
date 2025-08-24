@@ -5,3 +5,64 @@
   box-sizing: border-box;
   font-family: var(--font-family);
 }
+
+:root {
+  /* Colours */
+  --color-green: #9DFF3A;
+  --color-liner-gradient: linear-gradient(0deg, #75A941 0%, #3A7500 100%);
+  --color-white: #E5E5E5;
+  --color-grey1: #999999;
+  --color-grey2: #4D4D4D;
+  --color-grey3: #2E2E2E;
+  --color-grey4: #0F0F0F;
+
+  /* fonts */
+  --font-family: "Alexandria", sans-serif;
+
+  /* website */
+  --font-website-title1-size: 64px;
+  --font-website-title1-weight: 700;
+
+  --font-website-title2-size: 48px;
+  --font-website-title1-weight: 400;
+
+  --font-website-title3-size: 40px;
+  --font-website-title1-weight: 400;
+
+  --font-website-subtitle-size: 20px;
+  --font-website-subtitle-weight: 400;
+
+  --font-website-button-size: 18px;
+  --font-website-button-weight: 400;
+
+  --font-website-text1-size: 16px;
+  --font-website-text1-weight: 400;
+
+  --font-website-text2-size: 14px;
+  --font-website-text2-weight: 400;
+
+  --font-website-caption-size: 12px;
+  --font-website-caption-weight: 400;
+
+  /* mobile */
+  --font-mobile-title1-size: 40px;
+  --font-mobile-title1-weight: 500;
+
+  --font-mobile-title2-size: 28px;
+  --font-mobile-title1-weight: 400;
+
+  --font-mobile-subtitle-size: 20px;
+  --font-mobile-subtitle-weight: 400;
+
+  --font-mobile-button-size: 18px;
+  --font-mobile-button-weight: 400;
+
+  --font-mobile-text1-size: 16px;
+  --font-mobile-text1-weight: 400;
+
+  --font-mobile-text2-size: 14px;
+  --font-mobile-text2-weight: 400;
+
+  --font-mobile-caption-size: 12px;
+  --font-mobile-caption-weight: 400;
+}
