@@ -11,10 +11,10 @@
   --color-green: #9DFF3A;
   --color-liner-gradient: linear-gradient(0deg, #75A941 0%, #3A7500 100%);
   --color-white: #E5E5E5;
-  --color-grey1: #999999;
-  --color-grey2: #4D4D4D;
-  --color-grey3: #2E2E2E;
-  --color-grey4: #0F0F0F;
+  --color-gray1: #999999;
+  --color-gray2: #4D4D4D;
+  --color-gray3: #2E2E2E;
+  --color-gray4: #0F0F0F;
 
   /* fonts */
   --font-family: "Alexandria", sans-serif;
@@ -76,5 +76,5 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 p {
-  color: var(--color-grey1);
+  color: var(--color-gray1);
 }
