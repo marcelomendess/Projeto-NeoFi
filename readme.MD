@@ -125,6 +125,9 @@ Filipi Dourado</a>
 Este projeto esta sobe a licença [MIT](./LICENSE).
 
 Feito por Marcelo Mendes 👋🏽 [Entre em contato!](https://br.linkedin.com/in/marcelo-mendes-4b399b1b0)
+
 Feito por Natalia Andrade 👋🏽 [Entre em contato!](https://www.linkedin.com/in/natalia-araujo-913128277)
+
 Feito por Shirley Cabral 👋🏽 [Entre em contato!](https://www.linkedin.com/in/shirley-cabral-3404a1357)
+
 Feito por Filipi Dourado 👋🏽 [Entre em contato!](https://www.linkedin.com/in/filipi-dourado-7732632b6)
